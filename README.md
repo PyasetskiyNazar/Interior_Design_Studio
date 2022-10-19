@@ -4,7 +4,7 @@ Site for selling development services interior and exterior design homes and off
 The client on the site can get acquainted with the types of design work, service packages,
 as well as with some of the main directions in design. You can send a form with your data to the mail. 
 
-This is a fully responsive website with used  React Routing, React Scrolling, Framer Motional animation, formik, sanity client, react slick slider.
+This is a fully responsive website with used  React Routing, React Scrolling, Framer Motional animation, formik, sanity client, react slick slider, EmailJS.
 
 ## Available Scripts
 
