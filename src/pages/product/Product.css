@@ -32,7 +32,7 @@
 
 .product_image-container {
   display: flex;
-  width: 80%;
+  /* width: 80%; */
   height: 60vh;
 }
 
@@ -117,11 +117,5 @@
 @media (max-width: 670px) {
   .product_image-container {
     height: 30vh;
-  }
-}
-
-@media (max-width: 479px) {
-  .product_image-container {
-    height: 20vh;
   }
 }
